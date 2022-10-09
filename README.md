@@ -1,1 +1,1 @@
-# Expert-Advisor-Boiler-Plate
+# Expert Advisor Boiler Plate
